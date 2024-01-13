@@ -54,3 +54,7 @@ Feel free to fork the repository and submit pull requests with any enhancements 
 
 ### License
 This project is open source and available under the [MIT License](LICENSE).
+
+### Final Look
+
+![qr.png](qr.png)
